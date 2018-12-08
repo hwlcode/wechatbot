@@ -1,0 +1,15 @@
+{
+  "name": "wechaty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.11.0",
+    "qrcode-terminal": "^0.12.0",
+    "wechaty": "^0.22.4",
+    "wechaty-puppet-puppeteer": "^0.14.2"
+  }
+}
